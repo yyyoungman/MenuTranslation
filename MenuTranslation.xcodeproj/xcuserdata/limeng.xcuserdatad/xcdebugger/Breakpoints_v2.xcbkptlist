@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B5B7CD73-F504-4337-B59B-4E34BB41FBB9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A39B94D-3373-4358-A9C6-970134299F71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8A39B94D-3373-4358-A9C6-970134299F71 - f6abef0952959a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MenuTranslation.ContentView.sendOCRTextToServer(textOCR: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1989">
+               </Location>
+               <Location
+                  uuid = "8A39B94D-3373-4358-A9C6-970134299F71 - ec9fd7580055de6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in MenuTranslation.ContentView.body.getter : some"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "2743">
+               </Location>
+               <Location
+                  uuid = "8A39B94D-3373-4358-A9C6-970134299F71 - 821eb6a92e0f126d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in MenuTranslation.ContentView.body.getter : some"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1679">
+               </Location>
+               <Location
+                  uuid = "8A39B94D-3373-4358-A9C6-970134299F71 - 8d59e961bbe3b06c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in MenuTranslation.ContentView.body.getter : some"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85FDFC74-A6F2-48AB-9450-50943F279075"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "398"
+            endingLineNumber = "398"
+            landmarkName = "fuzzyMatch(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - e99155a083109f0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "408"
+                  endingLineNumber = "408"
+                  offsetFromSymbolStart = "458">
+               </Location>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - 841658121b9387a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "409"
+                  endingLineNumber = "409"
+                  offsetFromSymbolStart = "382">
+               </Location>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - e99155a083109f0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "408"
+                  endingLineNumber = "408"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - d958109f82e3e3a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "408"
+                  endingLineNumber = "408"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - e99155a083109f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "409"
+                  endingLineNumber = "409"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - d958109f82e3e305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "403"
+                  endingLineNumber = "403"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "85FDFC74-A6F2-48AB-9450-50943F279075 - e99155a083109f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "404"
+                  endingLineNumber = "404"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "461"
+            endingLineNumber = "461"
+            landmarkName = "renderTextOnMain(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 9acc93dfbadf9281"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "1250">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 9acc93dfbadf9281"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "773">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 9acc93dfbadf92cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "467"
+                  endingLineNumber = "467"
+                  offsetFromSymbolStart = "641">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 9acc93dfbadf92ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "466"
+                  endingLineNumber = "466"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - e99155a083109647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "464"
+                  endingLineNumber = "464"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 841658121b938f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "466"
+                  endingLineNumber = "466"
+                  offsetFromSymbolStart = "2423">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 841658121b938eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "461"
+                  endingLineNumber = "461"
+                  offsetFromSymbolStart = "2083">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 841658121b938ec8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "462"
+                  endingLineNumber = "462"
+                  offsetFromSymbolStart = "2083">
+               </Location>
+               <Location
+                  uuid = "C09E559E-260F-4E41-B99A-4CF492AC3B7F - 841658121b938e0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "460"
+                  endingLineNumber = "460"
+                  offsetFromSymbolStart = "1902">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "418"
+            endingLineNumber = "418"
+            landmarkName = "fuzzyMatch(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 841658121b938510"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "422"
+                  endingLineNumber = "422"
+                  offsetFromSymbolStart = "1373">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 841658121b9385d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "424"
+                  endingLineNumber = "424"
+                  offsetFromSymbolStart = "1319">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 841658121b9385f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "423"
+                  endingLineNumber = "423"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - d958109f82e3e157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "421"
+                  endingLineNumber = "421"
+                  offsetFromSymbolStart = "591">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 707eb5064adf98f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MenuTranslation.ContentView.renderText(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "421"
+                  endingLineNumber = "421"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 82524c95ba52346b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.fuzzyMatch(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "416"
+                  endingLineNumber = "416"
+                  offsetFromSymbolStart = "3067">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 82524c95ba52340a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.fuzzyMatch(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "417"
+                  endingLineNumber = "417"
+                  offsetFromSymbolStart = "3067">
+               </Location>
+               <Location
+                  uuid = "F2D2B1F3-536B-4F5F-8414-7C09424D2CEA - 82524c95ba523425"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.fuzzyMatch(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "418"
+                  endingLineNumber = "418"
+                  offsetFromSymbolStart = "2968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "469"
+            endingLineNumber = "469"
+            landmarkName = "renderTextOnMain(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 9acc93dfbadf9189"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "473"
+                  endingLineNumber = "473"
+                  offsetFromSymbolStart = "7638">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 9acc93dfbadf91b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "474"
+                  endingLineNumber = "474"
+                  offsetFromSymbolStart = "5566">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 9acc93dfbadf91b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "474"
+                  endingLineNumber = "474"
+                  offsetFromSymbolStart = "609">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 9acc93dfbadf9268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.getBorderColor(image: __C.UIImage) -&gt; __C.UIColor"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "472"
+                  endingLineNumber = "472"
+                  offsetFromSymbolStart = "465">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - d958109f82e3ebe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "472"
+                  endingLineNumber = "472"
+                  offsetFromSymbolStart = "1870">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 841658121b938f25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "467"
+                  endingLineNumber = "467"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 841658121b938f06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "468"
+                  endingLineNumber = "468"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "525881A6-8567-4BB2-B52D-CCFA78D414EF - 841658121b938fc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGRect, Swift.String) -&gt; () in closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in MenuTranslation.ContentView.renderTextOnMain(text: Swift.Array&lt;(__C.CGRect, Swift.String)&gt;) -&gt; ()"
+                  moduleName = "MenuTranslation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/limeng/Documents/allProjects/iosProjects/MenuTranslation/MenuTranslation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "470"
+                  endingLineNumber = "470"
+                  offsetFromSymbolStart = "2423">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3002AF9B-24A4-4F17-BFD4-E5928BAC1E6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "recognizeTextHandler(request:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A705D93-AF4F-4758-8BB3-CDFE48D9DF17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MenuTranslation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "recognizeTextHandler(request:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
