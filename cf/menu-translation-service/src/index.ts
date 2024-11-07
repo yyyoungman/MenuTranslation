@@ -30,7 +30,7 @@ function auth(request: Request) {
     let token = request.headers.get('Authorization')
     if (token) {
         token = token.replace('Bearer ', '')
-        if (token == 'cf-Kl814QbGR7tn050enmJdT3BlbkFJH4VX9XwQ6V3HmZo6hUq4') {
+        if (token == CF_TOKEN) {
             return true
         }
     }
@@ -75,7 +75,7 @@ async function procJson(request: Request, env: Env): Promise<Response> {
         const proxyRequest = new Request("https://api.openai.com/v1/chat/completions", {
             method: 'POST',
             headers: { 
-                'Authorization': 'Bearer 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', 
+                'Authorization': 'OPENAI_TOKEN', 
                 'content-type': 'application/json' 
             },
             body: JSON.stringify(reqBody)  
@@ -138,7 +138,7 @@ async function procJpeg(request: Request, env: Env): Promise<Response> {
     const proxyRequest = new Request("https://api.openai.com/v1/chat/completions", {
         method: 'POST',
         headers: { 
-            'Authorization': 'Bearer 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', 
+            'Authorization': 'OPENAI_TOKEN', 
             'content-type': 'application/json' 
         },
         body: JSON.stringify(reqBody)  
