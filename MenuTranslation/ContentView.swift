@@ -278,7 +278,7 @@ struct ContentView: View {
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.httpBody = jsonData
-        request.addValue("Bearer cf-Kl814QbGR7tn050enmJdT3BlbkFJH4VX9XwQ6V3HmZo6hUq4", forHTTPHeaderField: "Authorization") // cloudflare
+        request.addValue("CF_TOKEN", forHTTPHeaderField: "Authorization") // cloudflare
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         // request.timeoutInterval = 120 // Increase timeout to 120 seconds
         print("[time] request start", formatter.string(from: Date()))
@@ -323,7 +323,7 @@ struct ContentView: View {
 //        var request = URLRequest(url: url)
 //        request.httpMethod = "POST"
 //        request.httpBody = imageData
-//        request.addValue("Bearer cf-Kl814QbGR7tn050enmJdT3BlbkFJH4VX9XwQ6V3HmZo6hUq4", forHTTPHeaderField: "Authorization") // cloudflare
+//        request.addValue("CF_TOKEN", forHTTPHeaderField: "Authorization") // cloudflare
 //        request.addValue("image/jpeg", forHTTPHeaderField: "Content-Type")
 //        request.timeoutInterval = 120 // Increase timeout to 120 seconds
 //        URLSession.shared.dataTask(with: request) { data, response, error in
